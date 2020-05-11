@@ -1,2 +1,2 @@
 # bogfps
-sick fps for the meme lords.
+testing fps for learning amethyst
